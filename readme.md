@@ -5,9 +5,9 @@ Sistema de gestión de urgencias hospitalarias en C. Permite cargar pacientes de
 ## Integrantes
 
 - Tomás — Estructuras y Heap (`paciente.h/.c`, `heap.h/.c`)
-- Calde — HashMap y CSV (`hashmap.h/.c`, `csv.h/.c`)
-- Diego Olivares — Menú y flujo de usuario (`main.c`, `menu.h/.c`)
-- Fernando Hernandez — Integración, GitHub, Git
+- Ignacio — HashMap y CSV (`hashmap.h/.c`, `csv.h/.c`)
+- Diego  — Menú y flujo de usuario (`main.c`, `menu.h/.c`)
+- Fernando  — Integración, GitHub, Git
 
 ## Estructura del proyecto
 
